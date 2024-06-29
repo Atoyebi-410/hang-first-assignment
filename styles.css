@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    position: relative;
+    width: 500px;
+}
+.content{
+    text-align: center;
+    margin: auto;
+    margin-left: 400px;
+    position: absolute;
+    background-color: antiquewhite;
+    justify-content: center;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.hng{
+    text-decoration: none;
+}
